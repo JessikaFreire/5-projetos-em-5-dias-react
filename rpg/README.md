@@ -1,9 +1,9 @@
 # Characters
-Aubrey: Left Arrow, Up Arrow, Right Arrow and Down Arrow.
-Beca: A, W, D and S.
-Chloe: F, T, H and G.
-Emily: J, I, L and K.
-Stacie: 1, 5, 3 and 2.
+Aubrey: Arrows\
+Beca: A, W, D and S\
+Chloe: F, T, H and G\
+Emily: J, I, L and K\
+Stacie: 1, 5, 3 and 2
 
 # Getting Started with Create React App
 

@@ -1,0 +1,17 @@
+Projeto React
+
+
+
+npx create-react-app todo --template typescript
+
+npm start
+
+npm install @types/react (problema do react)
+
+npm install styled-components
+npm install -D @types/styled-components
+
+npm install uuid
+npm install -D @types/uuid
+
+npm install firebase
